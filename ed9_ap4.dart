@@ -3,7 +3,7 @@ import 'dart:io';
 Future<void> main() async {
   String? input = "";
 
-  print("Digite qual dado você busca:");
+  print("Digite qual dado você deseja buscar:");
   input = stdin.readLineSync();
 
   print("Buscando dado...");
